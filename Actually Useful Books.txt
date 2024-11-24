@@ -1,0 +1,44 @@
+
+Actually Useful Books
+
+by ArtSH
+
+Description
+
+
+
+It always had bothered me why such books as "Fundaments of Alchemy" or "Mixed Tactics" which are supposed to be manuals don't actually TEACH you smth. And also books "with spiritual sense" supposed to make you wise so your skill shall be highed too due to the fact that your wise is growing. Thus I come up with this simple idea.  
+
+This mod adds to common, religious, valuable, rare and unique books skill matching their content. Details are stocked in Word file. 
+
+With this mod this amount of new skillbooks will be:
+
+Alchemy +1
+Alteration +5
+Armorer +1
+Blunt +2
+Conjuration +5
+Destruction +4
+Illusion +5
+Marksman +1
+Mercantile +1
+Mysticism +5
+Restoration +3
+Security +2
+Sneak +3 
+
+
+There is two versions of this mod: Lite and Full. Lite reverts the most part of changes except some unique books and common manuals and Full brings all changes to the game. Choosing is up to you.  
+
+
+Installation
+
+Just put the Esp to the Oblivion/Data.
+
+
+credits:
+
+- Bethesda Softworks for the game
+- Guys who created TES4Edit
+- All modders for their inspiring mods
+
